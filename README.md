@@ -1,2 +1,8 @@
 # Names-Dataset-Analysis-Project
 Conducted an in-depth analysis of the popular baby names dataset (2011-2019) using Python, focusing on gender, ethnicity, and name trends.
+Utilized Pandas in Jupyter Notebook to load and explore the dataset, identifying key characteristics such as shape, data types, and missing values. Generated initial visualizations, including bar charts for baby names by year and gender, and pie charts for name distribution by ethnicity.
+Cleaned and prepared the data by addressing duplicates, renaming columns for consistency, and creating new variables like 'Name_Length' and 'Percentage,' which measured name length and the percentage of babies named per year and gender.
+Performed detailed analysis on name trends, such as identifying how many children were named Jacob in 2018 and analyzing the ethnicity distribution of those children. Developed visualizations like a line plot for the top 5 female names from 2013-2015, and scatter plots to show the relationship between name length and frequency by gender.
+Analyzed correlations between name length and frequency for specific ethnic groups (e.g., 'ASIAN AND PACI'), and produced scatter plots to highlight trends in yearly average name counts.
+Delivered a comprehensive report summarizing findings from the data analysis and visualizations, discussing key insights and trends such as the influence of gender and ethnicity on name popularity.
+Provided individual contributions to coding and documentation, and recommended future dataset improvements, such as adding additional variables or exploring regional name trends.
